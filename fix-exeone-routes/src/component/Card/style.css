@@ -1,0 +1,7 @@
+.card {
+    border-radius: 6px;
+    background-color: var(--color-section-card-bg);
+    color: var(--color-section-card-title);
+    padding: 20px;
+    min-height: 200px;
+}
